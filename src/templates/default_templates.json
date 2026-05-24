@@ -1,0 +1,50 @@
+[
+  {
+    "name": "制造业标准方案",
+    "industry": "制造业",
+    "description": "适用于一般制造企业，覆盖团体意外险和雇主责任险",
+    "default_coverage": 50,
+    "default_insurance_type": "团体意外险",
+    "base_rate": 15.0
+  },
+  {
+    "name": "IT互联网轻量方案",
+    "industry": "IT互联网",
+    "description": "适用于IT和互联网公司，侧重健康险和定期寿险",
+    "default_coverage": 30,
+    "default_insurance_type": "团体健康险",
+    "base_rate": 35.0
+  },
+  {
+    "name": "零售贸易基础方案",
+    "industry": "零售贸易",
+    "description": "适用于零售和贸易企业，标准意外险配置",
+    "default_coverage": 30,
+    "default_insurance_type": "团体意外险",
+    "base_rate": 15.0
+  },
+  {
+    "name": "建筑工程高危方案",
+    "industry": "建筑工程",
+    "description": "适用于建筑企业，高保额意外险+雇主责任险组合",
+    "default_coverage": 100,
+    "default_insurance_type": "雇主责任险",
+    "base_rate": 45.0
+  },
+  {
+    "name": "物流运输综合方案",
+    "industry": "物流运输",
+    "description": "适用于物流和运输企业，覆盖驾驶员和仓储人员",
+    "default_coverage": 80,
+    "default_insurance_type": "团体意外险",
+    "base_rate": 15.0
+  },
+  {
+    "name": "金融服务精英方案",
+    "industry": "金融服务",
+    "description": "适用于金融企业，高保额寿险+健康险",
+    "default_coverage": 100,
+    "default_insurance_type": "团体定期寿险",
+    "base_rate": 25.0
+  }
+]
